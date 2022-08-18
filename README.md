@@ -6,6 +6,8 @@ Go to https://tinytapeout.com for instructions!
 
 This design is based on the 1bit ALU from `Structured Computer Organization: Andrew S. Tanenbaum`.
 
+![1bit ALU](./img/1bit-alu.png)
+
 ## Pin list
 
 | Pin | Function |
@@ -33,6 +35,10 @@ The following functions are supported:
 `ENA` and `ENB` enable/disable the respective input.
 `INVA` inverts A before applying the operation.
 `CIN` is used as input for the full adder.
+
+## Results
+
+TODO
 
 # How to change the Wokwi project
 
