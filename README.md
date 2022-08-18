@@ -2,6 +2,8 @@
 
 # 1bit ALU
 
+Link to the Wokwi project: [tiny-tapeout-1bit-alu](https://wokwi.com/projects/340318610245288530)
+
 This design is based on the 1bit ALU from `Structured Computer Organization: Andrew S. Tanenbaum`.
 
 ![1bit ALU](./img/1bit-alu.png)
