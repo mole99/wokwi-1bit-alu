@@ -32,7 +32,7 @@ project:
                  If you choose to invert A, set INVA to 1, otherwise to 0.
                  For F0=1 and F1=1 you can set CIN as additional input for the ADD operation.
                  
-                 The 7-segment display shows either a "0" or a "1" depending on the output.
+                 The 7-segment display shows either a `0` or a `1` depending on the output.
                  If the ADD operation is selected, the dot of the 7-segment display represents the COUT.
                  "      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   external_hw:  "None"      # Describe any external hardware needed
